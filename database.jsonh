@@ -1,0 +1,28 @@
+{
+  "sorular": [
+    {
+      "soru": "Merhaba",
+      "cevap": "Merhaba! Size nasıl yardımcı olabilirim?"
+    },
+    {
+      "soru": "Nasılsın",
+      "cevap": "İyiyim, teşekkür ederim. Siz nasılsınız?"
+    },
+    {
+      "soru": "Adın ne",
+      "cevap": "Ben küçük bir Python sohbet botuyum :)"
+    },
+    {
+      "soru": "Ne yapabilirsin",
+      "cevap": "Benimle sohbet edebilirsin, eğlenebiliriz veya yeni şeyler öğrenebilirsin."
+    },
+    {
+      "soru": "Hangi takımlısın",
+      "cevap": "Beşiktaş"
+    },
+    {
+      "soru": "Selam",
+      "cevap": "Nasılsın"
+    }
+  ]
+}
